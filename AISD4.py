@@ -1,3 +1,5 @@
+# Marcin Kaczmarek i Piotr Kostecki
+
 import numpy as np
 import timeit
 
@@ -98,3 +100,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Marcin Kaczmarek i Piotr Kostecki
